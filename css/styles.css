@@ -1,0 +1,23 @@
+/* #f688bb #e8f9e9 #baf1a1 #9de3d0 */
+
+body {
+  background-color: #e8f9e9;
+  color: #272727;
+}
+
+hr {
+  border-color: lightgrey;
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 5%;
+}
+
+h1{
+  color: #f688bb;
+}
+h2,h3{
+  color: #50d890;
+}
+a {
+  color: #4f98ca;
+}
